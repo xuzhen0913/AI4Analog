@@ -1,0 +1,15 @@
+name,status,value,unit
+AllMOSRegion2,OK,1,bool
+M0_region,OK,2,region
+M1_region,OK,2,region
+M2_region,OK,2,region
+M3_region,OK,2,region
+M4_region,OK,2,region
+M5_region,OK,2,region
+M6_region,OK,2,region
+M7_region,OK,2,region
+DC_gain,OK,69.4778,dB
+GBW,OK,2.42E+07,Hz
+PhaseMargin,OK,87.9935,degree
+SupplyCurrent,OK,2.97E-05,A
+Power,OK,3.57E-05,W
